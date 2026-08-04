@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rupeshyadav09/LinkedList/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupeshyadav09/LinkedList/tree/master/0160-intersection-of-two-linked-lists) |
+| [0771-jewels-and-stones](https://github.com/rupeshyadav09/LinkedList/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rupeshyadav09/LinkedList/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/rupeshyadav09/LinkedList/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/rupeshyadav09/LinkedList/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
