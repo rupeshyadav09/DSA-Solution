@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupeshyadav09/LinkedList/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshyadav09/LinkedList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2942-find-words-containing-character](https://github.com/rupeshyadav09/LinkedList/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rupeshyadav09/LinkedList/tree/master/1221-split-a-string-in-balanced-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshyadav09/LinkedList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
