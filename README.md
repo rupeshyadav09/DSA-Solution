@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rupeshyadav09/LinkedList/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rupeshyadav09/LinkedList/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshyadav09/LinkedList/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rupeshyadav09/LinkedList/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rupeshyadav09/LinkedList/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
