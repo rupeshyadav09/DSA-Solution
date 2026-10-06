@@ -3,18 +3,14 @@
  * @return {string}
  */
 var removeOuterParentheses = function(s) {
-    let level =0;
+    let level = -1;
     let ans = "";
     for(let i=0; i<s.length; i++){
         if(s[i] === "("){
             level++;
-            if(level >1){
-                ans = ans + s[i];
-            }
+        ans += (level ? s[i] : "")
         } else{
-            if(level > 1){
-                ans = ans + s[i];
-            }
+             ans += (level ? s[i] : "")
              level--;
         }
     }
