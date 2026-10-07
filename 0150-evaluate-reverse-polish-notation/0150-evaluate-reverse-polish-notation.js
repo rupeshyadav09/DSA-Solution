@@ -4,12 +4,19 @@
  */
 var evalRPN = function(arr) {
     let stack = [];
+     
+     const map = {
+        "+" : (a,b) => (b+a),
+        "*" : (a,b) => (b*a),
+        "-" : (a,b) => (b-a),
+        "/" : (a,b) => Math.trunc(b/a),
+     }
     for(let i=0; i<arr.length; i++){
-        if(["+","*","-","/"].includes(arr[i])){
+        if(map[arr[i]]){
             let a = stack.pop();
             let b = stack.pop();
-            let ans = eval(`${b} ${arr[i]} ${a}`);
-             stack.push(Math.trunc(ans));
+            let ans = map[arr[i]](Number(a),Number(b));
+             stack.push(ans);
         }else{
             stack.push(arr[i]);
         }
