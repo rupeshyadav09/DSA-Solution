@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rupeshyadav09/LinkedList/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rupeshyadav09/LinkedList/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rupeshyadav09/LinkedList/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshyadav09/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rupeshyadav09/LinkedList/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/rupeshyadav09/LinkedList/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rupeshyadav09/LinkedList/tree/master/0876-middle-of-the-linked-list) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupeshyadav09/LinkedList/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshyadav09/LinkedList/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rupeshyadav09/LinkedList/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshyadav09/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2942-find-words-containing-character](https://github.com/rupeshyadav09/LinkedList/tree/master/2942-find-words-containing-character) |
 ## Counting
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rupeshyadav09/LinkedList/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/rupeshyadav09/LinkedList/tree/master/1021-remove-outermost-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshyadav09/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
