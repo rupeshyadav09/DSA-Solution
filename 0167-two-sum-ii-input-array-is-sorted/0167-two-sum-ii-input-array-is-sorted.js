@@ -16,5 +16,4 @@ var twoSum = function(arr, target) {
             right--;
         }
     }
-     return [];
 };
