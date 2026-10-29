@@ -12,19 +12,36 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function(headA, headB) {
-    
-    let storeNode = new Set();
+    let n=0;
+    let  pA = headA;
+    while(pA){
+        n++;
+        pA = pA.next;
+    }
+    let m=0;
+    let pB = headB;
+    while(pB){
+        m++;
+        pB = pB.next;
+    }
 
-     while(headB){
-        storeNode.add(headB);
-         headB = headB.next;
-     }
-       
-       while(headA){
-         if(storeNode.has(headA)){
-            return headA;
-         }
-           headA = headA.next;
-       }
-        return null;
+   let diff = Math.abs(n-m);
+   if(n>m){
+    let temp = headA;
+    headA = headB;
+    headB = temp;
+   }
+
+   for(let i=0; i<diff; i++){
+       headB = headB.next;
+   }
+
+   pA =headA;
+   pB =headB;
+
+   while(pA != pB){
+    pA = pA.next;
+    pB = pB.next;
+   }
+   return pA;
 };
